@@ -10,3 +10,6 @@ The Mission Creation component allows users to create waypoints, draw lines and 
 3. **Waypoint Table**: View and select waypoints in a table with coordinates and distance data.
 4. **Export Data**: Generate and download a CSV file with waypoint data (WP ID, coordinates, and distance).
 5. **Waypoint Details**: Click on a waypoint to view its details in a modal.
+
+---
+
