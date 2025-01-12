@@ -1,0 +1,16 @@
+/* Set height and width to 100% for the map to fill the screen */
+html,
+body,
+#root {
+  height: 100%;
+  margin: 0;
+  background-color: rgb(179, 210, 237);
+
+}
+
+.App {
+  height: 100%;
+  margin: 0;
+  background-color: rgb(179, 210, 237);
+
+}
