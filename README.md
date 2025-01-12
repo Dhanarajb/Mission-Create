@@ -1,8 +1,4 @@
 
-Here's a simple README file in Markdown format for your MissionCreation component:
-
-md
-Copy code
 # Mission Creation
 
 The Mission Creation component allows users to create waypoints, draw lines and polygons on a map, and export waypoint data in CSV format. This component integrates with the Leaflet map library for handling map events.
