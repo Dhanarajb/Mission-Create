@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mission-creation/mission-creation/static/css/main.20a4a924.css",
+    "main.js": "/mission-creation/mission-creation/static/js/main.fa41c2a6.js",
+    "static/js/871.9ca7e87e.chunk.js": "/mission-creation/mission-creation/static/js/871.9ca7e87e.chunk.js",
+    "index.html": "/mission-creation/mission-creation/index.html",
+    "main.20a4a924.css.map": "/mission-creation/mission-creation/static/css/main.20a4a924.css.map",
+    "main.fa41c2a6.js.map": "/mission-creation/mission-creation/static/js/main.fa41c2a6.js.map",
+    "871.9ca7e87e.chunk.js.map": "/mission-creation/mission-creation/static/js/871.9ca7e87e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20a4a924.css",
+    "static/js/main.fa41c2a6.js"
+  ]
+}
