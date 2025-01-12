@@ -13,3 +13,4 @@ The Mission Creation component allows users to create waypoints, draw lines and 
 
 ---
 
+<img width="1440" alt="Screenshot 2025-01-12 at 11 39 33 PM" src="https://github.com/user-attachments/assets/4762bac4-3be1-46c4-86a7-ceba9ed58f98" />
